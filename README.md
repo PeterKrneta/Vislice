@@ -4,5 +4,5 @@ Ugibaj črke in ugani besedo.
 Izogni se smrti
 ### Srečno
 #### Hehe
-## Avtor: 
+## Avtor(ji): 
 [Peter Krneta](https://github.com/PeterKrneta)
